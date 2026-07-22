@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+P101,Laptop,Electronics,50000.00,20
+P102,Mouse,Electronics,500.00,100
+P103,Keyboard,Electronics,1500.00,80
+P104,Monitor,Electronics,12000.00,30
+P105,Printer,Electronics,9000.00,15
+P106,Mobile,Electronics,25000.00,40
+P107,Tablet,Electronics,18000.00,35
+P108,Headphones,Accessories,2000.00,70
+P109,Webcam,Accessories,3500.00,50
+P110,"USB Drive",Accessories,800.00,120

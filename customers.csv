@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Gender,Age,City,Email,Phone
+101,Rahul,Male,24,Chennai,rahul@gmail.com,9876543210
+102,Priya,Female,28,Madurai,priya@gmail.com,9876543211
+103,Karan,Male,31,Salem,karan@gmail.com,9876543212
+104,Anitha,Female,26,Coimbatore,anitha@gmail.com,9876543213
+105,Vijay,Male,35,Trichy,vijay@gmail.com,9876543214
+106,Sneha,Female,23,Chennai,sneha@gmail.com,9876543215
+107,Arun,Male,30,Erode,arun@gmail.com,9876543216
+108,Meena,Female,27,Madurai,meena@gmail.com,9876543217
+109,Suresh,Male,40,Vellore,suresh@gmail.com,9876543218
+110,Divya,Female,29,Chennai,divya@gmail.com,9876543219
