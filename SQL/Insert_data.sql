@@ -1,0 +1,38 @@
+INSERT INTO Customers VALUES
+(101,'Rahul','Male',24,'Chennai','rahul@gmail.com','9876543210'),
+(102,'Priya','Female',28,'Madurai','priya@gmail.com','9876543211'),
+(103,'Karan','Male',31,'Salem','karan@gmail.com','9876543212'),
+(104,'Anitha','Female',26,'Coimbatore','anitha@gmail.com','9876543213'),
+(105,'Vijay','Male',35,'Trichy','vijay@gmail.com','9876543214'),
+(106,'Sneha','Female',23,'Chennai','sneha@gmail.com','9876543215'),
+(107,'Arun','Male',30,'Erode','arun@gmail.com','9876543216'),
+(108,'Meena','Female',27,'Madurai','meena@gmail.com','9876543217'),
+(109,'Suresh','Male',40,'Vellore','suresh@gmail.com','9876543218'),
+(110,'Divya','Female',29,'Chennai','divya@gmail.com','9876543219');
+INSERT INTO Products VALUES
+('P101','Laptop','Electronics',50000,20),
+('P102','Mouse','Electronics',500,100),
+('P103','Keyboard','Electronics',1500,80),
+('P104','Monitor','Electronics',12000,30),
+('P105','Printer','Electronics',9000,15),
+('P106','Mobile','Electronics',25000,40),
+('P107','Tablet','Electronics',18000,35),
+('P108','Headphones','Accessories',2000,70),
+('P109','Webcam','Accessories',3500,50),
+('P110','USB Drive','Accessories',800,120);
+INSERT INTO Orders VALUES
+(1,101,'P101',1,'2026-07-01'),
+(2,102,'P102',2,'2026-07-02'),
+(3,103,'P103',1,'2026-07-03'),
+(4,104,'P104',2,'2026-07-04'),
+(5,105,'P105',1,'2026-07-05'),
+(6,106,'P106',1,'2026-07-06'),
+(7,107,'P107',2,'2026-07-07'),
+(8,108,'P108',3,'2026-07-08'),
+(9,109,'P109',1,'2026-07-09'),
+(10,110,'P110',5,'2026-07-10'),
+(11,101,'P102',2,'2026-07-11'),
+(12,102,'P103',1,'2026-07-12'),
+(13,103,'P104',1,'2026-07-13'),
+(14,104,'P105',2,'2026-07-14'),
+(15,105,'P106',1,'2026-07-15');
