@@ -1,0 +1,16 @@
+OrderID,CustomerID,CustomerName,City,ProductID,ProductName,Category,Quantity,Price,TotalAmount,OrderDate
+1,101,Rahul,Chennai,P101,Laptop,Electronics,1,50000.00,50000.00,2026-07-01
+2,102,Priya,Madurai,P102,Mouse,Electronics,2,500.00,1000.00,2026-07-02
+3,103,Karan,Salem,P103,Keyboard,Electronics,1,1500.00,1500.00,2026-07-03
+4,104,Anitha,Coimbatore,P104,Monitor,Electronics,2,12000.00,24000.00,2026-07-04
+5,105,Vijay,Trichy,P105,Printer,Electronics,1,9000.00,9000.00,2026-07-05
+6,106,Sneha,Chennai,P106,Mobile,Electronics,1,25000.00,25000.00,2026-07-06
+7,107,Arun,Erode,P107,Tablet,Electronics,2,18000.00,36000.00,2026-07-07
+8,108,Meena,Madurai,P108,Headphones,Accessories,3,2000.00,6000.00,2026-07-08
+9,109,Suresh,Vellore,P109,Webcam,Accessories,1,3500.00,3500.00,2026-07-09
+10,110,Divya,Chennai,P110,"USB Drive",Accessories,5,800.00,4000.00,2026-07-10
+11,101,Rahul,Chennai,P102,Mouse,Electronics,2,500.00,1000.00,2026-07-11
+12,102,Priya,Madurai,P103,Keyboard,Electronics,1,1500.00,1500.00,2026-07-12
+13,103,Karan,Salem,P104,Monitor,Electronics,1,12000.00,12000.00,2026-07-13
+14,104,Anitha,Coimbatore,P105,Printer,Electronics,2,9000.00,18000.00,2026-07-14
+15,105,Vijay,Trichy,P106,Mobile,Electronics,1,25000.00,25000.00,2026-07-15
